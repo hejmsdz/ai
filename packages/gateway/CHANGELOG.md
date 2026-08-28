@@ -1,5 +1,15 @@
 # @ai-sdk/gateway
 
+## 2.0.144
+
+### Patch Changes
+
+- 7a926ba: Backport: chore(provider/gateway): update gateway model settings files
+- 25c1956: Backport: chore(provider/gateway): update gateway model settings files
+- 26165ee: Mark transient network errors that occur while reading successful response bodies as retryable, including AI Gateway responses.
+- Updated dependencies [26165ee]
+  - @ai-sdk/provider-utils@3.0.36
+
 ## 2.0.143
 
 ### Patch Changes
